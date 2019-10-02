@@ -5,19 +5,17 @@
     <title>Demo SICOP</title>
   </head>
   <body> <img src="file:///C:/Users/alejandro.herrera/Downloads/Logotipo-CGR_margen_blanco.jpg"
-      alt="" style="width: 747px; height: 215px;">
-    <table style="width: 445px; height: 90px;" border="1">
+      alt="" style="width: 776px; height: 219px;">
+    <table style="width: 100%" border="1">
       <tbody>
         <tr align="center">
-          <td style="text-align: center;"><b style="color: #6633ff;"><a href="">sociedad
-                civil</a></b></td>
+          <td><b style="color: #6633ff;"><a href="">sociedad civil</a></b></td>
         </tr>
         <tr align="center">
           <td><b><a href="">fiscalizador y gestor</a></b></td>
         </tr>
         <tr align="center">
-          <td><a href="https://juan-alejandro-herrera.shinyapps.io/plataforma_fiscalizacion/"><b>analista
-                de datos</b></a></td>
+          <td><b><a href="">analista de datos</a></b></td>
         </tr>
       </tbody>
     </table>
